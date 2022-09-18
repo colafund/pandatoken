@@ -1245,7 +1245,7 @@ main {
       top: 0;
       -webkit-transform: translate(-50%, 0);
               transform: translate(-50%, 0); } }
-
+              html,body{overflow-x:hidden;}
 .home-mint-inner {
   text-align: center;
   padding: 0 0 150px; }
